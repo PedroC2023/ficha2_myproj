@@ -1,0 +1,4 @@
+Este é o exemplo de um ficheiro de texto 3...
+Linha 2
+Linha 3
+
